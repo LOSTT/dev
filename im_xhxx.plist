@@ -11,20 +11,20 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.xhxx.cn/datacenter/downloadApp/download.do?id=e778a4d22b2b4a8c90d632fc368f68c0</string>
+					<string>http://4ye-download.lezhiyun.com/erxiao/fleaf.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.lezhixing.ltd.xiaolexmpp</string>
+				<string>com.lezhixing.ltd.fleaf</string>
 				<key>bundle-version</key>
-				<string>2.2.0</string>
+				<string>2.5.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>小乐通讯</string>
-			</dict>a
+				<string>四叶草</string>
+			</dict>
 		</dict>
 	</array>
 </dict>
